@@ -13,12 +13,9 @@ public class Test1A {
 		//Line 6 master
 		//Line 7 nitin_local
 		//Line 7 master
-<<<<<<< HEAD
 		//Line 8 nitin_local
-=======
 		//Line 8 master
 		//Line 9 master
->>>>>>> 0ef7b6efb1ed7cd1a1dfb0fbb3e85067d1db5978
 	}
 
 }
